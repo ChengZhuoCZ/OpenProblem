@@ -2,6 +2,8 @@
 
 Use this directory for shared metadata standards, taxonomies, or schema files.
 
+See `progress-schema.md` for the required structure of per-problem progress files.
+
 Suggested metadata fields:
 
 - `subject`
@@ -13,4 +15,3 @@ Suggested metadata fields:
 - `version`
 - `author`
 - `updated`
-
