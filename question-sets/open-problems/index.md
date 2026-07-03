@@ -11,6 +11,7 @@ Last updated: 2026-07-03
 | 3 | `03-convex-geometry/` | 凸几何及相关问题 |
 | 4 | `04-discrete-geometry-combinatorics/` | 离散几何与组合 |
 | 5 | `05-harmonic-analysis/` | 调和分析 |
+| 6 | `06-spherical-codes-designs/` | 球面编码与设计 |
 
 ## Problems
 
@@ -37,6 +38,18 @@ Last updated: 2026-07-03
 | problem-019 | 调和分析 | Weak type (1,1) for lacunary maximal functions | [problem.md](05-harmonic-analysis/problem-019/problem.md) | [progress.md](05-harmonic-analysis/problem-019/progress.md) | raw |
 | problem-020 | 调和分析 | Hardy space endpoint for lacunary maximal functions | [problem.md](05-harmonic-analysis/problem-020/problem.md) | [progress.md](05-harmonic-analysis/problem-020/progress.md) | raw |
 | problem-021 | 调和分析 | Geometric conditions for lacunary maximal functions on convex curves | [problem.md](05-harmonic-analysis/problem-021/problem.md) | [progress.md](05-harmonic-analysis/problem-021/progress.md) | raw |
+| problem-022 | 球面编码与设计 | Tammes problem for spherical point configurations | [problem.md](06-spherical-codes-designs/problem-022/problem.md) | [progress.md](06-spherical-codes-designs/problem-022/progress.md) | raw |
+| problem-023 | 球面编码与设计 | Kissing numbers in unsolved dimensions | [problem.md](06-spherical-codes-designs/problem-023/problem.md) | [progress.md](06-spherical-codes-designs/problem-023/progress.md) | raw |
+| problem-024 | 球面编码与设计 | Classification of extremal s-distance sets on spheres | [problem.md](06-spherical-codes-designs/problem-024/problem.md) | [progress.md](06-spherical-codes-designs/problem-024/progress.md) | raw |
+| problem-025 | 球面编码与设计 | Maximum s-distance sets in Euclidean space | [problem.md](06-spherical-codes-designs/problem-025/problem.md) | [progress.md](06-spherical-codes-designs/problem-025/progress.md) | raw |
+| problem-026 | 球面编码与设计 | Extremal s-inner product sets in Euclidean space | [problem.md](06-spherical-codes-designs/problem-026/problem.md) | [progress.md](06-spherical-codes-designs/problem-026/progress.md) | raw |
+| problem-027 | 球面编码与设计 | Few-distance sets in general metric and algebraic spaces | [problem.md](06-spherical-codes-designs/problem-027/problem.md) | [progress.md](06-spherical-codes-designs/problem-027/progress.md) | raw |
+| problem-028 | 球面编码与设计 | Coulomb-Thomson and energy minimization problems on spheres | [problem.md](06-spherical-codes-designs/problem-028/problem.md) | [progress.md](06-spherical-codes-designs/problem-028/progress.md) | raw |
+| problem-029 | 球面编码与设计 | Covering radius problem for spherical point sets | [problem.md](06-spherical-codes-designs/problem-029/problem.md) | [progress.md](06-spherical-codes-designs/problem-029/progress.md) | raw |
+| problem-030 | 球面编码与设计 | Large spherical t-designs from finite group orbits and lattice shells | [problem.md](06-spherical-codes-designs/problem-030/problem.md) | [progress.md](06-spherical-codes-designs/problem-030/progress.md) | raw |
+| problem-031 | 球面编码与设计 | Small shell and rational spherical design questions | [problem.md](06-spherical-codes-designs/problem-031/problem.md) | [progress.md](06-spherical-codes-designs/problem-031/progress.md) | raw |
+| problem-032 | 球面编码与设计 | Existence size of spherical t-designs when t is fixed and dimension grows | [problem.md](06-spherical-codes-designs/problem-032/problem.md) | [progress.md](06-spherical-codes-designs/problem-032/progress.md) | raw |
+| problem-033 | 球面编码与设计 | Classification of tight spherical t-designs for t equals 4, 5, and 7 | [problem.md](06-spherical-codes-designs/problem-033/problem.md) | [progress.md](06-spherical-codes-designs/problem-033/progress.md) | raw |
 
 ## Status Definitions
 
