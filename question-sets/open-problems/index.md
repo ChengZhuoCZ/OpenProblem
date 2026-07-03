@@ -33,7 +33,6 @@ Last updated: 2026-07-03
 | problem-014 | 调和分析 | Polarization constants for fat Cantor sets | [problem.md](05-harmonic-analysis/problem-014/problem.md) | [progress.md](05-harmonic-analysis/problem-014/progress.md) | raw |
 | problem-015 | 调和分析 | Convolutions with radial kernels | [problem.md](05-harmonic-analysis/problem-015/problem.md) | [progress.md](05-harmonic-analysis/problem-015/progress.md) | raw |
 | problem-016 | 调和分析 | Hyperbolic cross maximal inequality | [problem.md](05-harmonic-analysis/problem-016/problem.md) | [progress.md](05-harmonic-analysis/problem-016/progress.md) | raw |
-| problem-017 | 调和分析 | Pointwise convergence for rough singular integrals on L1 | [problem.md](05-harmonic-analysis/problem-017/problem.md) | [progress.md](05-harmonic-analysis/problem-017/progress.md) | raw |
 | problem-018 | 调和分析 | Triangular Hilbert transform | [problem.md](05-harmonic-analysis/problem-018/problem.md) | [progress.md](05-harmonic-analysis/problem-018/progress.md) | raw |
 | problem-019 | 调和分析 | Weak type (1,1) for lacunary maximal functions | [problem.md](05-harmonic-analysis/problem-019/problem.md) | [progress.md](05-harmonic-analysis/problem-019/progress.md) | raw |
 | problem-020 | 调和分析 | Hardy space endpoint for lacunary maximal functions | [problem.md](05-harmonic-analysis/problem-020/problem.md) | [progress.md](05-harmonic-analysis/problem-020/progress.md) | raw |
