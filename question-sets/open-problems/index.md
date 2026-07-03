@@ -10,6 +10,7 @@ Last updated: 2026-07-03
 | 2 | `02-fully-nonlinear-pde/` | 完全非线性PDE |
 | 3 | `03-convex-geometry/` | 凸几何及相关问题 |
 | 4 | `04-discrete-geometry-combinatorics/` | 离散几何与组合 |
+| 5 | `05-harmonic-analysis/` | 调和分析 |
 
 ## Problems
 
@@ -20,6 +21,22 @@ Last updated: 2026-07-03
 | problem-003 | 完全非线性PDE | Interior C^{2,alpha} estimates for sigma-2 equations with Holder right-hand side | [problem.md](02-fully-nonlinear-pde/problem-003/problem.md) | [progress.md](02-fully-nonlinear-pde/problem-003/progress.md) | theorem-draft |
 | problem-004 | 完全非线性PDE | Unconditional higher-dimensional Hessian estimates for the sigma-2 equation | [problem.md](02-fully-nonlinear-pde/problem-004/problem.md) | [progress.md](02-fully-nonlinear-pde/problem-004/progress.md) | theorem-draft |
 | problem-005 | 完全非线性PDE | Entire Alexandrov solutions of the Monge-Ampere equation with prescribed density | [problem.md](02-fully-nonlinear-pde/problem-005/problem.md) | [progress.md](02-fully-nonlinear-pde/problem-005/progress.md) | theorem-draft |
+| problem-006 | 调和分析 | A convolution inequality on spheres | [problem.md](05-harmonic-analysis/problem-006/problem.md) | [progress.md](05-harmonic-analysis/problem-006/progress.md) | raw |
+| problem-007 | 调和分析 | Generalized additive energy on the two-sphere | [problem.md](05-harmonic-analysis/problem-007/problem.md) | [progress.md](05-harmonic-analysis/problem-007/progress.md) | raw |
+| problem-008 | 调和分析 | Third-order generalized additive energy on curves | [problem.md](05-harmonic-analysis/problem-008/problem.md) | [progress.md](05-harmonic-analysis/problem-008/progress.md) | raw |
+| problem-009 | 调和分析 | Fourier transforms vanishing on the sphere | [problem.md](05-harmonic-analysis/problem-009/problem.md) | [progress.md](05-harmonic-analysis/problem-009/progress.md) | raw |
+| problem-010 | 调和分析 | Regularity or blow-up for the De Gregorio model | [problem.md](05-harmonic-analysis/problem-010/problem.md) | [progress.md](05-harmonic-analysis/problem-010/progress.md) | raw |
+| problem-011 | 调和分析 | A two-dimensional Constantin-Lax-Majda analogue | [problem.md](05-harmonic-analysis/problem-011/problem.md) | [progress.md](05-harmonic-analysis/problem-011/progress.md) | raw |
+| problem-012 | 调和分析 | A multi-frequency Carleson problem | [problem.md](05-harmonic-analysis/problem-012/problem.md) | [progress.md](05-harmonic-analysis/problem-012/progress.md) | raw |
+| problem-013 | 调和分析 | Removing condition (R) in Fourier restriction to hypersurfaces | [problem.md](05-harmonic-analysis/problem-013/problem.md) | [progress.md](05-harmonic-analysis/problem-013/progress.md) | raw |
+| problem-014 | 调和分析 | Polarization constants for fat Cantor sets | [problem.md](05-harmonic-analysis/problem-014/problem.md) | [progress.md](05-harmonic-analysis/problem-014/progress.md) | raw |
+| problem-015 | 调和分析 | Convolutions with radial kernels | [problem.md](05-harmonic-analysis/problem-015/problem.md) | [progress.md](05-harmonic-analysis/problem-015/progress.md) | raw |
+| problem-016 | 调和分析 | Hyperbolic cross maximal inequality | [problem.md](05-harmonic-analysis/problem-016/problem.md) | [progress.md](05-harmonic-analysis/problem-016/progress.md) | raw |
+| problem-017 | 调和分析 | Pointwise convergence for rough singular integrals on L1 | [problem.md](05-harmonic-analysis/problem-017/problem.md) | [progress.md](05-harmonic-analysis/problem-017/progress.md) | raw |
+| problem-018 | 调和分析 | Triangular Hilbert transform | [problem.md](05-harmonic-analysis/problem-018/problem.md) | [progress.md](05-harmonic-analysis/problem-018/progress.md) | raw |
+| problem-019 | 调和分析 | Weak type (1,1) for lacunary maximal functions | [problem.md](05-harmonic-analysis/problem-019/problem.md) | [progress.md](05-harmonic-analysis/problem-019/progress.md) | raw |
+| problem-020 | 调和分析 | Hardy space endpoint for lacunary maximal functions | [problem.md](05-harmonic-analysis/problem-020/problem.md) | [progress.md](05-harmonic-analysis/problem-020/progress.md) | raw |
+| problem-021 | 调和分析 | Geometric conditions for lacunary maximal functions on convex curves | [problem.md](05-harmonic-analysis/problem-021/problem.md) | [progress.md](05-harmonic-analysis/problem-021/progress.md) | raw |
 
 ## Status Definitions
 
