@@ -49,6 +49,7 @@ Last updated: 2026-07-03
 | problem-031 | 球面编码与设计 | Small shell and rational spherical design questions | [problem.md](06-spherical-codes-designs/problem-031/problem.md) | [progress.md](06-spherical-codes-designs/problem-031/progress.md) | raw |
 | problem-032 | 球面编码与设计 | Existence size of spherical t-designs when t is fixed and dimension grows | [problem.md](06-spherical-codes-designs/problem-032/problem.md) | [progress.md](06-spherical-codes-designs/problem-032/progress.md) | raw |
 | problem-033 | 球面编码与设计 | Classification of tight spherical t-designs for t equals 4, 5, and 7 | [problem.md](06-spherical-codes-designs/problem-033/problem.md) | [progress.md](06-spherical-codes-designs/problem-033/progress.md) | raw |
+| problem-034 | 特征值及相关问题 | Best quantitative Faber-Krahn constant in the planar convex class | [problem.md](01-eigenvalues/problem-034/problem.md) | [progress.md](01-eigenvalues/problem-034/progress.md) | scoped |
 
 ## Status Definitions
 
