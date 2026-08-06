@@ -1,6 +1,6 @@
 # Open Problem Index
 
-Last updated: 2026-07-03
+Last updated: 2026-08-06
 
 ## Categories
 
@@ -12,6 +12,7 @@ Last updated: 2026-07-03
 | 4 | `04-discrete-geometry-combinatorics/` | 离散几何与组合 |
 | 5 | `05-harmonic-analysis/` | 调和分析 |
 | 6 | `06-spherical-codes-designs/` | 球面编码与设计 |
+| 7 | `07-ginzburg-landau-brezis/` | Ginzburg-Landau 方程 |
 
 ## Problems
 
@@ -50,6 +51,10 @@ Last updated: 2026-07-03
 | problem-032 | 球面编码与设计 | Existence size of spherical t-designs when t is fixed and dimension grows | [problem.md](06-spherical-codes-designs/problem-032/problem.md) | [progress.md](06-spherical-codes-designs/problem-032/progress.md) | raw |
 | problem-033 | 球面编码与设计 | Classification of tight spherical t-designs for t equals 4, 5, and 7 | [problem.md](06-spherical-codes-designs/problem-033/problem.md) | [progress.md](06-spherical-codes-designs/problem-033/progress.md) | raw |
 | problem-034 | 特征值及相关问题 | Best quantitative Faber-Krahn constant in the planar convex class | [problem.md](01-eigenvalues/problem-034/problem.md) | [progress.md](01-eigenvalues/problem-034/progress.md) | scoped |
+| problem-035 | Ginzburg-Landau 方程 | Uniqueness of the radial Ginzburg-Landau solution on the disk | [problem.md](07-ginzburg-landau-brezis/problem-035/problem.md) | [progress.md](07-ginzburg-landau-brezis/problem-035/progress.md) | scoped |
+| problem-036 | Ginzburg-Landau 方程 | Global minimality of the radial Ginzburg-Landau vortex on the disk | [problem.md](07-ginzburg-landau-brezis/problem-036/problem.md) | [progress.md](07-ginzburg-landau-brezis/problem-036/progress.md) | scoped |
+| problem-037 | Ginzburg-Landau 方程 | Asymptotic radialization for p-Ginzburg-Landau minimizers | [problem.md](07-ginzburg-landau-brezis/problem-037/problem.md) | [progress.md](07-ginzburg-landau-brezis/problem-037/progress.md) | scoped |
+| problem-038 | Ginzburg-Landau 方程 | Classification of entire planar Ginzburg-Landau vortices | [problem.md](07-ginzburg-landau-brezis/problem-038/problem.md) | [progress.md](07-ginzburg-landau-brezis/problem-038/progress.md) | active |
 
 ## Status Definitions
 
