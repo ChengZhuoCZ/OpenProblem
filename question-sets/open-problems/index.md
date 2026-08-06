@@ -13,6 +13,7 @@ Last updated: 2026-08-06
 | 5 | `05-harmonic-analysis/` | 调和分析 |
 | 6 | `06-spherical-codes-designs/` | 球面编码与设计 |
 | 7 | `07-ginzburg-landau-brezis/` | Ginzburg-Landau 方程 |
+| 8 | `08-nls-spectral-inequalities/` | 非线性 Schrödinger 方程与谱不等式 |
 
 ## Problems
 
@@ -55,6 +56,7 @@ Last updated: 2026-08-06
 | problem-036 | Ginzburg-Landau 方程 | Global minimality of the radial Ginzburg-Landau vortex on the disk | [problem.md](07-ginzburg-landau-brezis/problem-036/problem.md) | [progress.md](07-ginzburg-landau-brezis/problem-036/progress.md) | scoped |
 | problem-037 | Ginzburg-Landau 方程 | Asymptotic radialization for p-Ginzburg-Landau minimizers | [problem.md](07-ginzburg-landau-brezis/problem-037/problem.md) | [progress.md](07-ginzburg-landau-brezis/problem-037/progress.md) | scoped |
 | problem-038 | Ginzburg-Landau 方程 | Classification of entire planar Ginzburg-Landau vortices | [problem.md](07-ginzburg-landau-brezis/problem-038/problem.md) | [progress.md](07-ginzburg-landau-brezis/problem-038/progress.md) | active |
+| problem-039 | 非线性 Schrödinger 方程与谱不等式 | Absence of binding for one-dimensional fermionic nonlinear Schrödinger systems | [problem.md](08-nls-spectral-inequalities/problem-039/problem.md) | [progress.md](08-nls-spectral-inequalities/problem-039/progress.md) | scoped |
 
 ## Status Definitions
 
