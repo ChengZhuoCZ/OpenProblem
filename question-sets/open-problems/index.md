@@ -1,6 +1,6 @@
 # Open Problem Index
 
-Last updated: 2026-08-06
+Last updated: 2026-08-09
 
 ## Categories
 
@@ -14,6 +14,8 @@ Last updated: 2026-08-06
 | 6 | `06-spherical-codes-designs/` | 球面编码与设计 |
 | 7 | `07-ginzburg-landau-brezis/` | Ginzburg-Landau 方程 |
 | 8 | `08-nls-spectral-inequalities/` | 非线性 Schrödinger 方程与谱不等式 |
+| 9 | `09-extremal-solutions/` | 极值解与半线性椭圆方程 |
+| 10 | `10-total-variation-rof/` | 全变差正则化与 ROF |
 
 ## Problems
 
@@ -57,6 +59,9 @@ Last updated: 2026-08-06
 | problem-037 | Ginzburg-Landau 方程 | Asymptotic radialization for p-Ginzburg-Landau minimizers | [problem.md](07-ginzburg-landau-brezis/problem-037/problem.md) | [progress.md](07-ginzburg-landau-brezis/problem-037/progress.md) | scoped |
 | problem-038 | Ginzburg-Landau 方程 | Classification of entire planar Ginzburg-Landau vortices | [problem.md](07-ginzburg-landau-brezis/problem-038/problem.md) | [progress.md](07-ginzburg-landau-brezis/problem-038/progress.md) | active |
 | problem-039 | 非线性 Schrödinger 方程与谱不等式 | Absence of binding for one-dimensional fermionic nonlinear Schrödinger systems | [problem.md](08-nls-spectral-inequalities/problem-039/problem.md) | [progress.md](08-nls-spectral-inequalities/problem-039/progress.md) | scoped |
+| problem-040 | 极值解与半线性椭圆方程 | Unboundedness of the extremal Gelfand solution on convex domains | [problem.md](09-extremal-solutions/problem-040/problem.md) | [progress.md](09-extremal-solutions/problem-040/progress.md) | scoped |
+| problem-041 | 极值解与半线性椭圆方程 | Blow-up set of unbounded extremal solutions | [problem.md](09-extremal-solutions/problem-041/problem.md) | [progress.md](09-extremal-solutions/problem-041/progress.md) | scoped |
+| problem-042 | 全变差正则化与 ROF | BV regularity of the gradient of ROF minimizers | [problem.md](10-total-variation-rof/problem-042/problem.md) | [progress.md](10-total-variation-rof/problem-042/progress.md) | scoped |
 
 ## Status Definitions
 

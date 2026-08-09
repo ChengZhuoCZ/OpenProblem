@@ -4,7 +4,7 @@
 
 - Status: scoped
 - Summary: Brezis Open Problem 2.3 remains open for \(p>2\), both for minimizers and critical points.
-- Last updated: 2026-08-06
+- Last updated: 2026-08-09
 
 ## What Is Already Organized
 
@@ -16,6 +16,13 @@
 
 - Choose whether to track minimizers only or arbitrary critical points in the first milestone.
 - Pin down the correct blow-up/core scaling for \(p>2\).
+
+## Literature Check — 2026-08-09
+
+- Brezis' Open Problem 2.3 asks the \(p>2\) question separately for minimizers and for arbitrary critical points. The source records positive results for \(p=2\), and for \(p<2\) in the minimizer case, but not for the stated \(p>2\) problem.
+- A targeted 2023--2026 primary-source search did not locate a complete resolution of either \(p>2\) formulation. They remain separate targets.
+
+Primary source: H. Brezis, [*Some of my favorite open problems*](https://sites.math.rutgers.edu/~brezis/PUBlications/234.pdf), Open Problem 2.3.
 
 ## Next Actions
 
@@ -29,3 +36,7 @@
 
 - Imported from the user-provided Brezis 2.1-2.4 summary.
 - Added status table information into the problem notes.
+
+### 2026-08-09
+
+- Rechecked the original quantifiers and retained `scoped`; no duplicate problem was created.
