@@ -1,6 +1,6 @@
 # Open Problem Index
 
-Last updated: 2026-08-09
+Last updated: 2026-08-13
 
 ## Categories
 
@@ -16,6 +16,8 @@ Last updated: 2026-08-09
 | 8 | `08-nls-spectral-inequalities/` | 非线性 Schrödinger 方程与谱不等式 |
 | 9 | `09-extremal-solutions/` | 极值解与半线性椭圆方程 |
 | 10 | `10-total-variation-rof/` | 全变差正则化与 ROF |
+| 11 | `11-discrete-analysis-local-theory/` | 离散分析、局部理论与量子布尔函数 |
+| 12 | `12-banach-space-operator-ideals/` | Banach 空间理论与算子理想 |
 
 ## Problems
 
@@ -62,6 +64,29 @@ Last updated: 2026-08-09
 | problem-040 | 极值解与半线性椭圆方程 | Unboundedness of the extremal Gelfand solution on convex domains | [problem.md](09-extremal-solutions/problem-040/problem.md) | [progress.md](09-extremal-solutions/problem-040/progress.md) | scoped |
 | problem-041 | 极值解与半线性椭圆方程 | Blow-up set of unbounded extremal solutions | [problem.md](09-extremal-solutions/problem-041/problem.md) | [progress.md](09-extremal-solutions/problem-041/progress.md) | scoped |
 | problem-042 | 全变差正则化与 ROF | BV regularity of the gradient of ROF minimizers | [problem.md](10-total-variation-rof/problem-042/problem.md) | [progress.md](10-total-variation-rof/problem-042/progress.md) | scoped |
+| problem-043 | 离散分析、局部理论与量子布尔函数 | Optimal scalar constant in a Riesz estimate from below | [problem.md](11-discrete-analysis-local-theory/problem-043/problem.md) | [progress.md](11-discrete-analysis-local-theory/problem-043/progress.md) | raw |
+| problem-044 | 离散分析、局部理论与量子布尔函数 | A scalar Riesz estimate from above for \(1<p<2\) | [problem.md](11-discrete-analysis-local-theory/problem-044/problem.md) | [progress.md](11-discrete-analysis-local-theory/problem-044/progress.md) | raw |
+| problem-045 | 离散分析、局部理论与量子布尔函数 | Banach-valued lower Riesz estimates below the endpoint | [problem.md](11-discrete-analysis-local-theory/problem-045/problem.md) | [progress.md](11-discrete-analysis-local-theory/problem-045/progress.md) | raw |
+| problem-046 | 离散分析、局部理论与量子布尔函数 | Montanaro--Osborne quantum KKL conjecture | [problem.md](11-discrete-analysis-local-theory/problem-046/problem.md) | [progress.md](11-discrete-analysis-local-theory/problem-046/progress.md) | raw |
+| problem-047 | 离散分析、局部理论与量子布尔函数 | Quantitative Euclidean sections of finite-dimensional \(\ell_p\) spaces | [problem.md](11-discrete-analysis-local-theory/problem-047/problem.md) | [progress.md](11-discrete-analysis-local-theory/problem-047/progress.md) | raw |
+| problem-048 | Banach 空间理论与算子理想 | Duality of entropy-number ideals | [problem.md](12-banach-space-operator-ideals/problem-048/problem.md) | [progress.md](12-banach-space-operator-ideals/problem-048/progress.md) | raw |
+| problem-049 | Banach 空间理论与算子理想 | Comparing Weyl, Hilbert, and approximation ideals | [problem.md](12-banach-space-operator-ideals/problem-049/problem.md) | [progress.md](12-banach-space-operator-ideals/problem-049/progress.md) | raw |
+| problem-050 | Banach 空间理论与算子理想 | Products of \(p\)-nuclear operators | [problem.md](12-banach-space-operator-ideals/problem-050/problem.md) | [progress.md](12-banach-space-operator-ideals/problem-050/progress.md) | raw |
+| problem-051 | 离散分析、局部理论与量子布尔函数 | Mendel--Naor heat smoothing | [problem.md](11-discrete-analysis-local-theory/problem-051/problem.md) | [progress.md](11-discrete-analysis-local-theory/problem-051/progress.md) | raw |
+| problem-052 | 离散分析、局部理论与量子布尔函数 | Hatami--Kalai tail-space strengthening of KKL | [problem.md](11-discrete-analysis-local-theory/problem-052/problem.md) | [progress.md](11-discrete-analysis-local-theory/problem-052/progress.md) | raw |
+| problem-053 | Banach 空间理论与算子理想 | Quotients with a basis | [problem.md](12-banach-space-operator-ideals/problem-053/problem.md) | [progress.md](12-banach-space-operator-ideals/problem-053/progress.md) | raw |
+| problem-054 | Banach 空间理论与算子理想 | Separable infinite-dimensional quotients | [problem.md](12-banach-space-operator-ideals/problem-054/problem.md) | [progress.md](12-banach-space-operator-ideals/problem-054/progress.md) | raw |
+| problem-055 | Banach 空间理论与算子理想 | Quasi-complemented separable subspaces | [problem.md](12-banach-space-operator-ideals/problem-055/problem.md) | [progress.md](12-banach-space-operator-ideals/problem-055/progress.md) | raw |
+| problem-056 | Banach 空间理论与算子理想 | Krein--Milman versus Radon--Nikodym | [problem.md](12-banach-space-operator-ideals/problem-056/problem.md) | [progress.md](12-banach-space-operator-ideals/problem-056/progress.md) | raw |
+| problem-057 | Banach 空间理论与算子理想 | Krein--Milman versus exposed point property | [problem.md](12-banach-space-operator-ideals/problem-057/problem.md) | [progress.md](12-banach-space-operator-ideals/problem-057/progress.md) | raw |
+| problem-058 | Banach 空间理论与算子理想 | Radon--Nikodym versus exposed point property | [problem.md](12-banach-space-operator-ideals/problem-058/problem.md) | [progress.md](12-banach-space-operator-ideals/problem-058/progress.md) | raw |
+| problem-059 | Banach 空间理论与算子理想 | Compact endomorphisms and the approximation property | [problem.md](12-banach-space-operator-ideals/problem-059/problem.md) | [progress.md](12-banach-space-operator-ideals/problem-059/progress.md) | raw |
+| problem-060 | Banach 空间理论与算子理想 | Operators of Fourier type \(2\) | [problem.md](12-banach-space-operator-ideals/problem-060/problem.md) | [progress.md](12-banach-space-operator-ideals/problem-060/progress.md) | raw |
+| problem-061 | Banach 空间理论与算子理想 | The radical ideal and largest proper operator ideals | [problem.md](12-banach-space-operator-ideals/problem-061/problem.md) | [progress.md](12-banach-space-operator-ideals/problem-061/progress.md) | raw |
+| problem-062 | Banach 空间理论与算子理想 | Banach spaces whose operators are scalar plus nuclear | [problem.md](12-banach-space-operator-ideals/problem-062/problem.md) | [progress.md](12-banach-space-operator-ideals/problem-062/progress.md) | raw |
+| problem-063 | Banach 空间理论与算子理想 | When nuclear and compact operators coincide | [problem.md](12-banach-space-operator-ideals/problem-063/problem.md) | [progress.md](12-banach-space-operator-ideals/problem-063/progress.md) | raw |
+| problem-064 | 离散分析、局部理论与量子布尔函数 | Tail-space total-influence strengthening | [problem.md](11-discrete-analysis-local-theory/problem-064/problem.md) | [progress.md](11-discrete-analysis-local-theory/problem-064/progress.md) | raw |
+| problem-065 | 离散分析、局部理论与量子布尔函数 | The ultimate Banach-valued lower Riesz estimate | [problem.md](11-discrete-analysis-local-theory/problem-065/problem.md) | [progress.md](11-discrete-analysis-local-theory/problem-065/progress.md) | raw |
 
 ## Status Definitions
 
