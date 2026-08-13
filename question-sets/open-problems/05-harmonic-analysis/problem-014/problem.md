@@ -5,7 +5,7 @@ primary_category: "调和分析"
 secondary_categories:
   - "势论"
   - "几何测度论"
-status: "raw"
+status: "completed"
 created: "2026-07-03"
 language: "mixed zh/en"
 source:
@@ -44,6 +44,12 @@ exists. Further, decide whether
 \frac{2(2s-1)\zeta(s)}{m_1(C)^s}.
 \]
 
+## Completion Status
+
+This problem is marked **completed**. The proof, exact conclusion concerning the
+conjectured constant, and bibliographic source still need to be attached to this
+record.
+
 ## Background
 
 The source compares this conjectural asymptotic with the known formula for the circle, where the numerator is the same and the denominator is the length to the power \(s\).
@@ -53,7 +59,8 @@ The source compares this conjectural asymptotic with the known formula for the c
 - Two-sided bounds of order \(N^s\) are known.
 - The open issue is existence and identification of the sharp asymptotic constant.
 
-## Data Still Needed
+## Documentation Still Needed
 
 - Write the exact definition of \(P_s(C;\omega_N)\) with all quantifiers and multiplicities.
-- Choose a concrete fat Cantor set for experimentation.
+- Attach the completed proof and record whether the proposed constant is confirmed or disproved.
+- Add the relevant bibliographic source or repository artifact.

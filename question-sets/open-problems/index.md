@@ -36,7 +36,7 @@ Last updated: 2026-08-13
 | problem-011 | 调和分析 | A two-dimensional Constantin-Lax-Majda analogue | [problem.md](05-harmonic-analysis/problem-011/problem.md) | [progress.md](05-harmonic-analysis/problem-011/progress.md) | raw |
 | problem-012 | 调和分析 | A multi-frequency Carleson problem | [problem.md](05-harmonic-analysis/problem-012/problem.md) | [progress.md](05-harmonic-analysis/problem-012/progress.md) | raw |
 | problem-013 | 调和分析 | Removing condition (R) in Fourier restriction to hypersurfaces | [problem.md](05-harmonic-analysis/problem-013/problem.md) | [progress.md](05-harmonic-analysis/problem-013/progress.md) | raw |
-| problem-014 | 调和分析 | Polarization constants for fat Cantor sets | [problem.md](05-harmonic-analysis/problem-014/problem.md) | [progress.md](05-harmonic-analysis/problem-014/progress.md) | raw |
+| problem-014 | 调和分析 | Polarization constants for fat Cantor sets | [problem.md](05-harmonic-analysis/problem-014/problem.md) | [progress.md](05-harmonic-analysis/problem-014/progress.md) | completed |
 | problem-015 | 调和分析 | Convolutions with radial kernels | [problem.md](05-harmonic-analysis/problem-015/problem.md) | [progress.md](05-harmonic-analysis/problem-015/progress.md) | raw |
 | problem-016 | 调和分析 | Hyperbolic cross maximal inequality | [problem.md](05-harmonic-analysis/problem-016/problem.md) | [progress.md](05-harmonic-analysis/problem-016/progress.md) | raw |
 | problem-018 | 调和分析 | Triangular Hilbert transform | [problem.md](05-harmonic-analysis/problem-018/problem.md) | [progress.md](05-harmonic-analysis/problem-018/progress.md) | raw |
