@@ -5,7 +5,7 @@ primary_category: "球面编码与设计"
 secondary_categories:
   - "数论"
   - "格理论"
-status: "raw"
+status: "partially-completed"
 created: "2026-07-03"
 language: "mixed zh/en"
 source:
@@ -32,9 +32,17 @@ Resolve the following explicit existence questions from the lecture:
 
 1. Is there a spherical \(6\)-design on a shell of a lattice \(L\subset\mathbb R^2\)?
 2. Is there a spherical \(4\)-design on a shell of a lattice \(L\subset\mathbb R^3\)?
-3. Is there a spherical \(4\)-design on \(S^1\) whose coordinates are all rational numbers?
+3. Is there a spherical \(4\)-design on \(S^1\) whose coordinates are all rational numbers? **Completed.**
 
 Also investigate the analogous rational-coordinate question for larger \(t\).
+
+## Subproblem Status
+
+| Subproblem | Status |
+| --- | --- |
+| (1) Spherical \(6\)-design on a shell in \(\mathbb R^2\) | Open |
+| (2) Spherical \(4\)-design on a shell in \(\mathbb R^3\) | Open |
+| (3) Rational-coordinate spherical \(4\)-design on \(S^1\) | Completed |
 
 ## Background
 
@@ -49,3 +57,4 @@ These are concrete low-dimensional questions that sit between explicit design co
 
 - Verify whether these small cases have been settled after the lecture.
 - Clarify what "shell of a lattice" means in each dimension and normalization.
+- Add the construction or proof and its bibliographic source for completed subproblem (3).
